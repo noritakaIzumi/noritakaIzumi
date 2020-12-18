@@ -1,4 +1,4 @@
-Fairy makes standards.
+:angel: Fairy makes standards :star2:
 ---
 
 ## Call me, `Nori`
@@ -9,6 +9,6 @@ Fairy makes standards.
 - I want to be a full stack developer
 - I live in Kobe, Japan
 
-## To know more...
+#### To know more...
 
-https://portfolio.fairy-select.com
+[Fairy Select - My Portfolio](https://portfolio.fairy-select.com/)
