@@ -1,6 +1,13 @@
 :angel: Fairy makes standards :star2:
 ---
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noritakaizumi&count_private=true&show_icons=true&theme=vue-dark&line_height=40" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noritakaizumi&theme=vue-dark" />
+</a>
+
 ## Call me, `Nori`
 
 - I am an App Developer
