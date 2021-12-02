@@ -24,3 +24,18 @@
 #### To know more...
 
 [Fairy Select - My Portfolio](https://portfolio.fairy-select.com/)
+
+## 今後やろうとしてること
+
+- [ ] 日報作成アプリを運用に乗せる (各自プルしてデプロイする形)
+- [ ] 2021 年 Qiita Advent Calendar を 3 記事書く
+  - 現在 1 記事
+- [ ] AWS アカウントを管理している Markdown を HTML にマークアップするやつを CI でやる (多分 Hugo)
+- それなりに出来上がっているフラッシュ暗算を
+  - [ ] React Native で改めて作る
+  - [ ] Google Play ストアと App Store に出す (審査通るかどうかは別)
+- [ ] 勉強目的として、こちらの [役に立つ記事](https://qiita.com/bindingpry/items/6a215ff3952958edd805) に答えられるように勉強してどこかにまとめる (公開する)
+- [ ] ポートフォリオを 2021 年 12 月時点のやつに更新する
+- 打刻を Selenium on Lambda と EventBridge でやる
+  - [ ] Selenium on Lambda
+  - [ ] EventBridge
