@@ -34,7 +34,6 @@
 - それなりに出来上がっているフラッシュ暗算を
   - [ ] React Native で改めて作る
   - [ ] Google Play ストアと App Store に出す (審査通るかどうかは別)
-- [ ] 勉強目的として、こちらの [役に立つ記事](https://qiita.com/bindingpry/items/6a215ff3952958edd805) に答えられるように勉強してどこかにまとめる (公開する)
 - [ ] ポートフォリオを 2021 年 12 月時点のやつに更新する
 - 打刻を Selenium on Lambda と EventBridge でやる
   - [ ] Selenium on Lambda
