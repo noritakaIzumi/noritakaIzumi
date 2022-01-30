@@ -28,11 +28,9 @@
 ## 今後やろうとしてること
 
 - [ ] 日報作成アプリを運用に乗せる (各自プルしてデプロイする形)
-- [ ] AWS アカウントを管理している Markdown を HTML にマークアップするやつを CI でやる (多分 Hugo)
 - それなりに出来上がっているフラッシュ暗算を
-  - [ ] React Native で改めて作る
-  - [ ] Google Play ストアと App Store に出す (審査通るかどうかは別)
-- [ ] ポートフォリオを 2021 年 12 月時点のやつに更新する
+  - [x] PWA 対応できたので OK
+- [x] ポートフォリオを 2021 年 12 月時点のやつに更新する
 - 打刻を Selenium on Lambda と EventBridge でやる
-  - [ ] Selenium on Lambda
+  - [x] Selenium on Lambda
   - [ ] EventBridge
