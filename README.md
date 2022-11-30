@@ -1,6 +1,8 @@
 :angel: Fairy makes standards :star2:
 ---
 
+[![wakatime](https://wakatime.com/badge/user/4ea16871-403b-435a-81b5-580836b69672.svg)](https://wakatime.com/@4ea16871-403b-435a-81b5-580836b69672)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=noritakaizumi&count_private=true&show_icons=true&theme=vue-dark&line_height=40" />
 </a>
