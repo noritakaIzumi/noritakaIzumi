@@ -10,6 +10,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noritakaizumi&theme=vue-dark" />
 </a>
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649107a1db7de05a7a6fa754?variant=dark)](https://roadmap.sh)
+
 ## Call me, `Nori`
 
 #### Other platforms
